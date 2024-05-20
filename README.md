@@ -3,3 +3,5 @@
 **Chapter 3**: Some Simple Numerical Programs 
 
 **Chapter 4**: Functions, Scoping, and Abstraction
+
+**Chapter 5**: Structured Types and Mutability
