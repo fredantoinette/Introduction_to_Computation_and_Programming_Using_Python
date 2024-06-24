@@ -5,19 +5,17 @@ If no odd number was entered,
 it should print a message to that effect.
 """
 
-odd_int = []
+odd_int = 0
 num_iterations = 0
 while num_iterations < 10:
     user_int = input(f'Please input an integer ({num_iterations+1}): ')
-    try:
-        user_int = int(user_int)
-        num_iterations = num_iterations + 1
-        if user_int % 2 != 0:
-            odd_int.append(user_int)
-    except ValueError:
-        user_int = print("That cannot be converted to an integer, please input an integer.")
-if len(odd_int) > 0:
-    print(f'The largest odd number is {max(odd_int)}')
+    if int(user_int) % 2 != 0: 
+        if odd_int == 0:
+            odd_int = int(user_int)
+        elif int(user_int) > odd_int:
+            odd_int = int(user_int)
+    num_iterations = num_iterations + 1
+if odd_int != 0:
+    print(f'The largest odd number is {odd_int}')
 else:
     print("No odd number was entered")
-    
