@@ -9,3 +9,5 @@
 **Chapter 6**: Recursion and Global Variables
 
 **Chapter 7**: Modules and Files
+
+**Chapter 9**: Exceptions and Assertions
