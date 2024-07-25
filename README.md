@@ -11,3 +11,7 @@
 **Chapter 7**: Modules and Files
 
 **Chapter 9**: Exceptions and Assertions
+
+**Chapter 10**: Classes and Object-Oriented Programming
+
+**Chapter 12**: Some Simple Algorithms and Data Structures
