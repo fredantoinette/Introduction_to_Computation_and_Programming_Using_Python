@@ -15,3 +15,7 @@
 **Chapter 10**: Classes and Object-Oriented Programming
 
 **Chapter 12**: Some Simple Algorithms and Data Structures
+
+**Chapter 14**: Knapsack and Graph Optimization Problems
+
+**Chapter 15**: Dynamic Programming
