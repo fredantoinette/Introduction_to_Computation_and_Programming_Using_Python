@@ -19,3 +19,5 @@
 **Chapter 14**: Knapsack and Graph Optimization Problems
 
 **Chapter 15**: Dynamic Programming
+
+**Chapter 16**: Random Walks and More About Data Visualization
