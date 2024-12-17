@@ -21,3 +21,13 @@
 **Chapter 15**: Dynamic Programming
 
 **Chapter 16**: Random Walks and More About Data Visualization
+
+**Chapter 17**: Stochastic Programs, Probability, and Distributions
+
+**Chapter 18**: Monte Carlo Simulation
+
+**Chapter 20**: Understanding Experimental Data
+
+**Chapter 21**: Randomized Trials and Hypothesis Checking
+
+**Chapter 22**: Lies, Damned Lies, and Statistics
