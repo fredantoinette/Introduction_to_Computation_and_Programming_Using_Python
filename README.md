@@ -31,3 +31,5 @@
 **Chapter 21**: Randomized Trials and Hypothesis Checking
 
 **Chapter 22**: Lies, Damned Lies, and Statistics
+
+**Chapter 23**: Exploring Data with Pandas
