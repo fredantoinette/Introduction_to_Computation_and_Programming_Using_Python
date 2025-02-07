@@ -33,3 +33,5 @@
 **Chapter 22**: Lies, Damned Lies, and Statistics
 
 **Chapter 23**: Exploring Data with Pandas
+
+**Chapter 26**: Classification Methods
